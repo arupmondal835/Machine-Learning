@@ -1,0 +1,1 @@
+We have three proteins here. We are using experimental mutagenesis data from our collaborators. Goal is to build a model that can predict activity given a new sequence. We are using ESM2 model to get the sequence embedding and then building a wide array of ML models we find the best model for this application.
